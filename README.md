@@ -123,4 +123,4 @@ The image below demonstrates the two approaches:
 - **In the Hot Path** (left side): Immediate memory updates before responding.
 - **In the Background** (right side): Delayed memory updates via background processes.
 
-![image.png](attachment:image.png)
+![Alt text](images\hot_path_vs_background--2-.png)
